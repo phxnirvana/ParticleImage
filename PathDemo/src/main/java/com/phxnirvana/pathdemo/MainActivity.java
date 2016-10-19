@@ -8,11 +8,9 @@ import android.util.Log;
 import android.view.View;
 
 import com.phxnirvana.pathdemo.view.PathView;
-import com.phxnirvana.pathdemo.view.ProgressCircleView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    ProgressCircleView mProgressCircleView;
     PathView mPathView;
 
     @Override
